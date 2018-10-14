@@ -28,14 +28,14 @@
 ```
     //不带参数
     [MGXRouter openURL:@"Router://MGXTest/testClassMethod" params:nil];
-    //带参数的类方法
+    //带参数
     [MGXRouter openURL:@"Router://MGXTest/testClassMethod"
 ```  
  
 ### 调用对象方法
 
 ```
-	 //不带参数
+	//不带参数
     [MGXRouter openURL:@"Router://MGXTest/testObjectMethod" params:nil];
     //带参数
     [MGXRouter openURL:@"Router://MGXTest/testObjectMethod?name=jobs&age=14" params:nil];
