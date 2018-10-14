@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MGXRouter_Example' do
+  pod 'MGXRouter', :path => '../'
+
+  target 'MGXRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

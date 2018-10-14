@@ -1,0 +1,16 @@
+PODS:
+  - MGXRouter (1.0.0)
+
+DEPENDENCIES:
+  - MGXRouter (from `../`)
+
+EXTERNAL SOURCES:
+  MGXRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGXRouter: fcd2395c8568cad80b49d09a9e9797dc579e444d
+
+PODFILE CHECKSUM: 0f9789b56d1ab309d33ac1fa8cd56e83d932b7b5
+
+COCOAPODS: 1.5.3
